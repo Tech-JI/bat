@@ -87,8 +87,20 @@ Run `bat --help` to see all the available options.
 
 ## Sample
 
-This repo contains my (Hydraallen's) config file for bat.
+This repo contains sample config file for bat.
 
 ```bash
 git clone https://github.com/Hydraallen/bat.git ~/.config/bat
 ```
+
+## Usage
+
+### Display a single file on the terminal
+
+```bash
+bat filename
+```
+
+### Show non-printable characters
+
+You can use the `-A`/`--show-all` option to show and highlight non-printable characters.
