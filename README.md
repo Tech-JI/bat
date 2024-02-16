@@ -104,3 +104,8 @@ bat filename
 ### Show non-printable characters
 
 You can use the `-A`/`--show-all` option to show and highlight non-printable characters.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TechJI-2023/bat&type=Date)](https://star-history.com/#TechJI-2023/bat&Date)
+
